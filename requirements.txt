@@ -1,0 +1,25 @@
+# Core Libraries
+numpy               # Numerical operations
+pandas              # Data manipulation and preprocessing
+scipy               # Advanced math functions and stats
+
+# Data Visualization
+matplotlib          # Basic data visualization
+seaborn             # Statistical data visualization (works with matplotlib)
+
+# Machine Learning & Algorithms
+scikit-learn        # Core machine learning library (PCA, LDA, regression, clustering, SVM, KNN, etc.)
+
+# Additional ML Libraries for Boosting & Reinforcement Learning
+xgboost             # XGBoost algorithm for gradient boosting
+
+# Clustering Libraries
+scikit-extra        # Contains KMedoids clustering
+
+# Statistical Analysis
+statsmodels         # Statistical models for regression and ANOVA
+
+# Specialized Libraries
+imbalanced-learn    # For handling imbalanced data (useful for datasets like the credit card dataset)
+mlxtend             # Machine learning extensions, useful for ensemble methods and evaluation metrics
+
